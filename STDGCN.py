@@ -163,7 +163,3 @@ class STDGCN(nn.Module):
             raise ValueError("The value of difference should be 0, 1, 2, 3, 4")
             
         return out  # (batch_size, num_nodes, num_time_steps, node_features)
-        
-    
-    
-    

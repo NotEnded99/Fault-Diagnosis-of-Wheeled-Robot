@@ -72,4 +72,3 @@ def get_adjacent_matrix():
 if __name__ == '__main__':
     pass
  
-    
